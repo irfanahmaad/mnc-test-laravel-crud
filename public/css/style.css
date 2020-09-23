@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+tr>th {
+    text-align: center;
+}
+
+#add_customer {
+    margin-bottom: 10px;
+}
+
+tbody tr td {
+    font-size: small;
+}
